@@ -1,4 +1,5 @@
 # binance-ticker
+This project allows comparison between coin exchanges
 
 ## Project setup
 ```
